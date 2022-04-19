@@ -25,7 +25,9 @@ module.exports = async () => {
   console.log('所有模型均已成功同步');
   // 没有root用户，默认为第一次运行，初始化数据库
   const User = sequelize.models.User;
-  const hasRoot = await User.count({ where: { username: 'root' } });
+  const hasRoot = await User.count({
+    where: { username: globalConfig.db.defaultUser.username }
+  });
   if (!hasRoot) {
     await createDefaultData();
   }
