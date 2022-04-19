@@ -1,0 +1,37 @@
+{
+  "id": "3335017",
+  "name": "mark-map",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5313517",
+      "name": "tool_polygon",
+      "font_class": "tool_polygon",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    },
+    {
+      "icon_id": "13366474",
+      "name": "poly-line",
+      "font_class": "poly-line",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "17774818",
+      "name": "面积2",
+      "font_class": "area2",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    },
+    {
+      "icon_id": "18592586",
+      "name": "distance",
+      "font_class": "distance",
+      "unicode": "e6a5",
+      "unicode_decimal": 59045
+    }
+  ]
+}
