@@ -6,7 +6,8 @@ markMap苗刻地图是一款开源的、前后端分离的地图标注平台。�
 
 ## 预览
 #### 线上预览地址
-https://qjvic.github.io/mark-map-demo/
+http://mark-map.gis1024.com/
+
 该地址中的所有数据，每日凌晨自动清空，请勿上传重要数据。
 
 #### 部分截图
