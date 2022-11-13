@@ -4,11 +4,6 @@ markMap苗刻地图是一款开源的、前后端分离的地图标注平台。�
 
 默认仅需node环境 + sqlite，无需额外数据库环境，无需手动初始化数据库，clone后安装依赖即可运行。仅需修改数行配置文件，也可自行修改替换为mysql、postgreSQL等其他关系型数据库。
 
-## 预览
-#### 线上预览地址
-http://mark-map.gis1024.com/
-
-该地址中的所有数据，每日凌晨自动清空，请勿上传重要数据。
 
 #### 部分截图
 <img src="./static/screen-shot/s1.png" width="40%" style="margin-right: 5%"><img src="./static/screen-shot/s2.png" width="40%" style="margin-right: 5%">
